@@ -97,15 +97,6 @@ body {
 	height: auto;
 }
 
-.label {
-	line-height: 1;
-}
-
-.input {
-	width: 885px;
-	line-height: 1;
-}
-
 #message {
 	height: 160px;
 }
